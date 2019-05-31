@@ -1,5 +1,10 @@
 #coding=utf-8
 import time
+"""
+    1.寻找到下一个空格
+    2.轮流填入格中数字 1 到 9
+    3.递归判断填入数是否符合规则
+"""
 
 
 class solution(object):
